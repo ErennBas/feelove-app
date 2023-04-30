@@ -1,0 +1,7 @@
+{
+  "name": "feelove",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

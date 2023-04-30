@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264123701561",
+    "firebase_url": "https://gebit-todo-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gebit-todo",
+    "storage_bucket": "gebit-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264123701561:android:77c1bde33c76ae484f70e8",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264123701561-10obfpgti9olm41u1pf3pnprtni5bnvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_oN0PF2P7dDqxQS2xXBuTRCMKIqS_mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264123701561-10obfpgti9olm41u1pf3pnprtni5bnvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
